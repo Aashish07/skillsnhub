@@ -1,2 +1,2 @@
 # skillsnhub
-a courses website
+a workshopwebsite
